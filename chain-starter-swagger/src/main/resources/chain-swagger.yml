@@ -1,0 +1,11 @@
+#swagger公共信息
+swagger:
+  title: ChainCloud 接口文档系统
+  description: ChainCloud 接口文档系统
+  license: Powered By ChainCloud
+  license-url: https://ChainCloud.vip
+  terms-of-service-url: https://ChainCloud.vip
+  contact:
+    name: small
+    email: small@163.com
+    url: https://gitee.com/smallc

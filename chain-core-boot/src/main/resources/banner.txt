@@ -1,0 +1,8 @@
+${AnsiColor.BLUE}     _____  _    _            _____  _   _
+${AnsiColor.BLUE}    / ____|| |  | |    /\    |_   _|| \ | |
+${AnsiColor.BLUE}   | |     | |__| |   /  \     | |  |  \| |
+${AnsiColor.BLUE}   | |     |  __  |  / /\ \    | |  | . ` |
+${AnsiColor.BLUE}   | |____ | |  | | / ____ \  _| |_ | |\  |
+${AnsiColor.BLUE}    \_____||_|  |_|/_/    \_\|_____||_| \_|
+
+${AnsiColor.BLUE}:: ChainCloud ${chain.service.version} :: ${spring.application.name}:${AnsiColor.RED}${chain.env}${AnsiColor.BLUE} :: Running SpringBoot ${spring-boot.version} :: ${AnsiColor.BRIGHT_BLACK}

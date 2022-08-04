@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>chain-base</artifactId>
+        <groupId>com.gitchain</groupId>
+        <version>0.0.1-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+    <artifactId>chain-starter-report</artifactId>
+    <version>${project.parent.version}</version>
+    <packaging>jar</packaging>
+    <dependencies>
+        <dependency>
+            <groupId>com.gitchain</groupId>
+            <artifactId>chain-starter-mybatis</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.bstek.ureport</groupId>
+            <artifactId>ureport2-console</artifactId>
+            <version>2.2.9</version>
+        </dependency>
+        <!-- Auto -->
+        <dependency>
+            <groupId>com.gitchain</groupId>
+            <artifactId>chain-core-auto</artifactId>
+            <scope>provided</scope>
+        </dependency>
+    </dependencies>
+</project>
