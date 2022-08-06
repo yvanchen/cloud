@@ -53,6 +53,7 @@
         <module>chain-starter-tips</module>
         <module>chain-starter-trace</module>
         <module>chain-starter-transaction</module>
+        <module>demo</module>
     </modules>
     <dependencyManagement>
         <dependencies>
