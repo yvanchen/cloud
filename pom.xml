@@ -54,6 +54,7 @@
         <module>chain-starter-trace</module>
         <module>chain-starter-transaction</module>
         <module>demo</module>
+        <module>auto-generate</module>
     </modules>
     <dependencyManagement>
         <dependencies>

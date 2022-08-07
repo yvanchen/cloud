@@ -1,12 +1,12 @@
 package com.gitchain.core.demo.validator.bean;
-import javax.validation.constraints.Min;
+
+import javax.validation.constraints.AssertTrue;
 
 /**
  * @author chenyuwen
- * @date 2022/8/6
  */
 public class User {
 
-    @Min(7)
+    @AssertTrue
     private Boolean sex;
 }
