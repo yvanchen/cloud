@@ -8,6 +8,5 @@ import com.gitchain.core.demo.processor.anno.MyGet;
 @MyGet
 public class Cat {
 
-
     private String name;
 }
