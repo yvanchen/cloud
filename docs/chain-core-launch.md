@@ -10,3 +10,6 @@
 
 **StartEventListener**执行启动完成后打印输出appName、启动端口、环境变量
 
+**ChainLaunchConfiguration**无意义
+
+**ChainPropertyConfiguration**创建**ChainPropertySourcePostProcessor**属性加载执行器
