@@ -1,0 +1,3 @@
+# chain-core-tool
+
+api层主要是定义全局包装返回对象R，R的静态生成方法主要是入参IResultCode接口，IResultCode接口有一个枚举实现ResultCode
