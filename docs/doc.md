@@ -3,3 +3,4 @@
 2. chain-core-launch
 3. chain-core-tool
 4. chain-starter-jwt
+5. chain-starter-auth
