@@ -4,3 +4,5 @@
 3. chain-core-tool
 4. chain-starter-jwt
 5. chain-starter-auth
+6. chain-starter-cache
+7. chain-starter-mybatis
