@@ -1,2 +1,3 @@
 # chain-starter-mybatis
 
+base层BaseEntity用于所有数据库实体基类继承，BaseServiceImpl是对ServiceImpl拓展增强
